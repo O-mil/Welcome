@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Tools
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=social&logo=Android Studio&logoColor=white"/>
+### Skill
+ <img src="https://img.shields.io/badge/Android Studio-F7DF1E?style=social&logo=JavaScript&logoColor=white"/>
