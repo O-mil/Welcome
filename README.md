@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-mil&layout=compact)](https://github.com/O-mil/github-readme-stats) <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-mil&show_icons=true&theme=dracula)
+<div align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-mil&layout=compact)](https://github.com/O-mil/github-readme-stats)</div> <br/><br/>
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-mil&show_icons=true&theme=dracula)</div>
 
 
