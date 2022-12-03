@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-mil&layout=compact)](https://github.com/O-mil/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-mil&show_icons=true&theme=highcontrast)
 
 
