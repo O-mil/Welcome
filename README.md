@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 ## ✔️ Etc
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-mil%2Fhit-counter&count_bg=%23F0DBDB&title_bg=%23DBA39A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/O-mil?style=social)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-mil&layout=compact)](https://github.com/O-mil/github-readme-stats) <br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-mil&layout=compact)](https://github.com/O-mil/github-readme-stats)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-mil&show_icons=true&theme=dracula)
 
 
