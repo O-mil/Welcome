@@ -2,7 +2,7 @@
 
 # Kim Hwajeong
 ✉️ ghkwjd5343@gmail.com <br/>
-<img src="https://img.shields.io/badge/000000?style=flat&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/  -000000?style=flat&logo=Tistory&logoColor=white"/>
 
 <!--
 **O-mil/O-mil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
