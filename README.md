@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:1E3B6B,100:699BEE&height=300&section=header&text=WELCOME!&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:DBA39A,100:F0DBDB&height=300&section=header&text=WELCOME!&fontSize=90) 
 
 # Kim Hwajeong
 Hi there 👋
