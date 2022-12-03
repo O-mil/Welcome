@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:DBA39A,100:F0DBDB&height=300&section=header&text=WELCOME!&fontSize=90&fontColor=FEFCF3) 
 
-# Kim Hwajeong
+# O'mil
 <a href="https://o-mil.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:ghkwjd5343@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <br/><br/><br/>
