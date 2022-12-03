@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:DBA39A,100:F0DBDB&height=300&section=header&text=WELCOME!&fontSize=90&fontColor=FEFCF3) 
 
 # Kim Hwajeong
-✉️ ghkwjd5343@gmail.com <br/>
+✉️ ghkwjd5343@gmail.com <br/> <br/>
 <a href="https://o-mil.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 <!--
