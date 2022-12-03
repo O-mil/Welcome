@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:DBA39A,100:F0DBDB&height=300&section=header&text=WELCOME!&fontSize=90&fontColor=FEFCF3) 
 
 # Kim Hwajeong
-Hi there 👋
+✉️ ghkwjd5343@gmail.com
+
 
 <!--
 **O-mil/O-mil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
