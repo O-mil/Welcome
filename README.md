@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ## 📚 Study
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> Java
 <br/><br/><br/>
 
 ## ✔️ Etc
