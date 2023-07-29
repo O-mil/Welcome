@@ -2,11 +2,11 @@
 
 # Hi! I'm Hwajeong
 <a href="https://o-mil.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-<a href="mailto:dev.hzkim@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dev.hwajeongii@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <br/><br/><br/>
 
 <!--
-**hazieo/hazieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hwajeongii/hwajeongii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 
 ## ✔️ Etc
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhazieo%2Fhit-counter&count_bg=%23F0DBDB&title_bg=%23DBA39A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![followers](https://img.shields.io/github/followers/hazieo?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwajeongii%2Fhit-counter&count_bg=%23F0DBDB&title_bg=%23DBA39A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/hwajeongii?style=social)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazieo&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwajeongii&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwajeongii)](https://solved.ac/hwajeongii/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-mil&layout=compact)](https://github.com/O-mil/github-readme-stats)
